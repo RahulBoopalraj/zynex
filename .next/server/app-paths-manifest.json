@@ -1,5 +1,3 @@
 {
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/(defaultLayout)/page": "app/(defaultLayout)/page.js",
-  "/home2/page": "app/home2/page.js"
+  "/(defaultLayout)/page": "app/(defaultLayout)/page.js"
 }
